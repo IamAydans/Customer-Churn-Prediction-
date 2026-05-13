@@ -35,6 +35,9 @@ This project aims to:
 
 The dataset used in this project is based on the IBM Telco Customer Churn dataset obtained from Kaggle.
 
+Dataset source:
+https://www.kaggle.com/datasets/johnflag/jb-link-telco-customer-churn
+
 The dataset contains customer-level information including:
 - demographic characteristics,
 - service subscriptions,
