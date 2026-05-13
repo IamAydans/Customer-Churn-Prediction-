@@ -106,12 +106,6 @@ customer-churn-prediction-bda/
 │
 ├── outputs/
 │   └── figures/
-│
-├── reports/
-│   └── dissertation.pdf
-│
-└── docs/
-    └── ai_usage_disclosure.md
 ```
 
 ---
@@ -193,6 +187,6 @@ AI-generated support was used in accordance with the Business Data Analytics Pro
 ---
 
 ## Author
-
+Aydan Sadigova
 MSc in IT for Business Data Analytics  
 International Business School / The University of Buckingham
